@@ -1,0 +1,9 @@
+ 
+#subtitulo {
+    margin-left: 10%;
+}
+
+#aplicacao {
+    display: flex;
+    flex-direction: column;
+}
